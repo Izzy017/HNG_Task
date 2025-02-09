@@ -1,1 +1,1 @@
-# HNG_Task
+The report analyzes sales, customer trends, and product profitability. Phones generate the highest revenue ($0.33M), followed by Storage and Tables. The Consumer segment leads in revenue ($1.03M), and the West region is the most profitable (37.86%). High discounts on products like Tables impact profitability. Recommendations include optimizing discounts and expanding high-revenue categories # HNG_Task
